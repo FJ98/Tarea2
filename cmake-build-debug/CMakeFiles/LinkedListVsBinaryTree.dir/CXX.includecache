@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/felix/CLionProjects/unidad-1-linked-list-vs-binary-search-tree-FJ98/BinarySearchTree.h
+Location.h
+/cygdrive/c/Users/felix/CLionProjects/unidad-1-linked-list-vs-binary-search-tree-FJ98/Location.h
+
+/cygdrive/c/Users/felix/CLionProjects/unidad-1-linked-list-vs-binary-search-tree-FJ98/LinkedList.cpp
+LinkedList.h
+/cygdrive/c/Users/felix/CLionProjects/unidad-1-linked-list-vs-binary-search-tree-FJ98/LinkedList.h
+
+/cygdrive/c/Users/felix/CLionProjects/unidad-1-linked-list-vs-binary-search-tree-FJ98/LinkedList.h
+Location.h
+/cygdrive/c/Users/felix/CLionProjects/unidad-1-linked-list-vs-binary-search-tree-FJ98/Location.h
+
+/cygdrive/c/Users/felix/CLionProjects/unidad-1-linked-list-vs-binary-search-tree-FJ98/Location.h
+string
+-
+
+/cygdrive/c/Users/felix/CLionProjects/unidad-1-linked-list-vs-binary-search-tree-FJ98/main.cpp
+iostream
+-
+sstream
+-
+string
+-
+vector
+-
+fstream
+-
+LinkedList.h
+/cygdrive/c/Users/felix/CLionProjects/unidad-1-linked-list-vs-binary-search-tree-FJ98/LinkedList.h
+BinarySearchTree.h
+/cygdrive/c/Users/felix/CLionProjects/unidad-1-linked-list-vs-binary-search-tree-FJ98/BinarySearchTree.h
+
